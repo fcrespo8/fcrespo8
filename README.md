@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Francisco, an aspiring full stack web developer 👨‍💻 Changing career and excited to start this new adventure. 🚀 Just finished Le Wagon Bootcamp :)</div>  
+### <div align="center">I'm Francisco, a full stack web developer 👨‍💻 Changing career and excited to start this new adventure. 🚀 Just finished Le Wagon Bootcamp and working in personal projects :)</div>  
   
 
 - 🔭 I’m currently looking for a full time job as a Full Stack Web Developer.  
-  
 
-- 🌱 I’m currently learning React.  
+
+- 🚀 I’m currently working on a Ruby on Rails app with React.
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
