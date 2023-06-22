@@ -3,12 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Francisco, a full stack web developer 👨‍💻 Changing career and excited to start this new adventure. 🚀 Just finished Le Wagon Bootcamp and working in personal projects :)</div>  
-  
+### <div align="center">I'm Francisco :), a Full Stack Web Developer 👨‍💻 🚀</div>  
+    
 
-- 🔭 I’m currently looking for a full time job as a Full Stack Web Developer.  
-
-- 🚀 I’m currently working on [Filmoteca](https://github.com/RdzYogi/filmoteca)
+- 🚀 I’m currently working on Lightbox Animation Studios as Python Software Engineer and [Filmoteca](https://github.com/RdzYogi/filmoteca)
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/franciscocrespo](https://troopl.com/franciscocrespo)
 
