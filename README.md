@@ -12,9 +12,7 @@
 - 👨‍💻 All of my projects are available at [https://troopl.com/franciscocrespo](https://troopl.com/franciscocrespo)
 
 - 📫 How to reach me **fcrespo8@hotmail.com**
-  
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+    
 
 <br/>  
 
