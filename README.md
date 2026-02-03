@@ -1,54 +1,60 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+## Hey! I'm Francisco 👋  
+### Software Engineer | Pipeline TD (Python)
 
-## <div align="center">Hey! I'm Francisco :)</div>  
-### <div align="center">Software Engineer 👨‍💻 🚀</div>  
-    
+I’m a **Python Software Engineer / Pipeline Technical Director** working in the animation & CG industry.  
+I specialize in building **production tools, automation systems, and pipeline solutions** for artists and studios.
 
-- 🚀 I’m currently working on Lightbox Animation Studios as Python Software Engineer and [Filmoteca](https://github.com/RdzYogi/filmoteca)
+---
 
-- 👨‍💻 All of my projects are available at [https://troopl.com/franciscocrespo](https://troopl.com/franciscocrespo)
+### 🚀 What I do
+- 🧩 Develop Python tools for **Maya, ShotGrid, and internal CG pipelines**
+- 🛠️ Automate workflows for artists (animation, layout, rendering, publishing)
+- ⚙️ Maintain and improve existing production tools
+- 🤖 Exploring **AI / Machine Learning** applied to asset validation and pipeline automation
 
-- 📫 How to reach me **fcrespo8@hotmail.com**
-    
+---
 
-<br/>  
+### 🏢 Experience
+- **Lightbox Animation Studios** — Python Software Engineer / Pipeline TD  
+- Contributor to internal tools and personal projects like **Filmoteca**
 
-<div align="center">
+---
 
-## My Skill Set 
+### 🧠 Tech Stack (core)
+**Languages**
+- Python (main)
+- JavaScript / TypeScript (secondary)
+- Ruby (projects & scripting)
 
-<p align="left">  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,py,js,ruby,c,php,ts,django,react,redux,rails,docker,vscode,mysql,sqlite,postgres,postman,heroku,rocket,tailwind,bootstrap,codepen,html,css,figma,codepen" />
-  </a>
-</p>
+**Pipeline / Tools**
+- Maya (Python API)
+- ShotGrid
+- Git / GitLab
+- Docker
 
-</div>  
+**Web / Support**
+- Django
+- React
+- PostgreSQL / MySQL
 
-<div align="center">
-  
-## Connect With Me! 
+---
 
-<a href="https://github.com/fcrespo8" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/crespo-francisco" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-  
- <div align="center">
-  
-  ## Most used languages
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcrespo8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
- </div> 
+### 📌 Projects
+- 🔧 CG pipeline tools for production environments  
+- 🎬 Internal automation for animation workflows  
+- 🤖 ML experiments for asset classification & validation
 
-<br/>  
+👉 All my projects:  
+**https://troopl.com/franciscocrespo**
 
+---
 
+### 📫 Get in touch
+- Email: **fcrespo8@hotmail.com**
+- LinkedIn: https://linkedin.com/in/crespo-francisco
+- GitHub: https://github.com/fcrespo8
+
+---
+
+### 📊 Most used languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcrespo8&layout=compact)
