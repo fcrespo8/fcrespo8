@@ -28,13 +28,15 @@ I specialize in building **production tools, automation systems, and pipeline so
 
 **Pipeline / Tools**
 - Maya (Python API)
+- Blender
 - ShotGrid
 - Git / GitLab
-- Docker
+
 
 **Web / Support**
 - Django
 - React
+- Ruby on Rails
 - PostgreSQL / MySQL
 
 ---
@@ -53,6 +55,7 @@ I specialize in building **production tools, automation systems, and pipeline so
 - Email: **fcrespo8@hotmail.com**
 - LinkedIn: https://linkedin.com/in/crespo-francisco
 - GitHub: https://github.com/fcrespo8
+- Web: https://www.francisco-crespo.com/
 
 ---
 
