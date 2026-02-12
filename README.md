@@ -57,7 +57,4 @@ I specialize in building **production tools, automation systems, and pipeline so
 - GitHub: https://github.com/fcrespo8
 - Web: https://www.francisco-crespo.com/
 
----
 
-### 📊 Most used languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcrespo8&layout=compact)
