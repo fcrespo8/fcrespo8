@@ -1,5 +1,5 @@
 ## Hey! I'm Francisco 👋  
-### Software Engineer | Pipeline TD (Python)
+### Python Backend Engineer | AI/ML Tooling · FastAPI · LangChain
 
 I’m a **Python Software Engineer / Pipeline Technical Director** working in the animation & CG industry.  
 I specialize in building **production tools, automation systems, and pipeline solutions** for artists and studios.
